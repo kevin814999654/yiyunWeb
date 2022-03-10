@@ -1,0 +1,38 @@
+.sp_header{height:50px;overflow:hidden;background:#fff;box-shadow: 0px 0px 5px rgba(195,195,195,0.55);position:fixed;z-index:10;width:100%; top:0; padding:0 10px; z-index:999}
+.sp_logo{float:left; margin:0px 0;height:50px}
+.sp_logo img{margin:10px auto;max-height:30px;}
+.sp_nav{width:60px;float:right;position:relative;cursor:pointer;height:30px;margin-top:15px}
+.sp_nav em{ font-style:normal; color:#333; position:absolute; right:40px; width:50px; font-size:14px}
+.sp_nav span{display:block;background:#333;width:30px;height:2px;position:absolute;left:10px;transition:all ease 0.35s}
+.sp_nav span:nth-of-type(1){top:0px}
+.sp_nav span:nth-of-type(2){top:10px}
+.sp_nav span:nth-of-type(3){top:20px}
+.sp_nav_se span:nth-of-type(1){top:10px;transform:rotate(45deg)}
+.sp_nav_se span:nth-of-type(2){width:0}
+.sp_nav_se span:nth-of-type(3){top:10px;transform:rotate(-45deg)}
+.sjj_nav{position:fixed;z-index:99999;background:#e1ebef;width:100%;height:calc(100% - 104px);font-size:14px;line-height:40px;top:-100%;left:0;overflow:auto;overflow-x:hidden;transition:top ease 0.35s;}
+.nav_show{top:50px}
+.sjj_nav>ul>li:first-child{overflow:hidden;border-top:0}
+.sjj_nav>ul>li:first-child>a{float:left;width:calc(100% - 70px)}
+
+.sjj_nav ul li i{position:absolute;top:5px;right:0px;height:30px;padding:0px 7px 0 7px;}
+.sjj_nav ul li i svg{transform:rotate(-90deg);transition:all ease 0.35s}
+.sjj_nav ul li .sjj_nav_i_se svg{transform:rotate(0deg)}
+.sjj_nav ul li{border-top:1px #ddd solid;position:relative;line-height:40px;font-size:14px}
+.sjj_nav>ul >li:last-child{border-bottom:1px #ddd solid;}
+.sjj_nav ul li ul{display:none}
+.sjj_nav ul li a{color:#545d69;width:80%; padding:0 20px;}
+.sjj_nav ul li ul li{ padding:0; border:0; background:#e9f0f3}
+.sjj_nav ul li ul li a{color:#999;display:block;text-align:left;}
+.sjj_nav ul li i svg{width:20px;height:20px;fill:#545d69;}
+.sjj_nav ul li .sjj_nav_i_se svg{fill:#545d69}
+.sjj_nav ul li ul li>ul{margin-left:0px}
+.sjj_nav ul li ul li ul li{ background:#fff}
+.sjj_nav ul li ul li img{ height:12px; width:auto; padding-right:5px; vertical-align:middle}
+.header2{ display:none}
+@media screen and (max-width:1200px) {
+	.header{ display:none;}
+	.header2{ display:block}
+	.fenge{ display:block; height:50px; overflow:hidden}
+	
+}

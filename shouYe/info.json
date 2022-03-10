@@ -1,0 +1,982 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.itelecloud.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 37350,
+            "children": [
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210305/1614916708141318.jpg",
+                    "path": "img/1614916708141318.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504776491853.png",
+                    "path": "img/1610504776491853.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/images/hot.png",
+                    "path": "img/hot.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20211021/1634796024718097.png",
+                    "path": "img/1634796024718097.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504808806415.png",
+                    "path": "img/1610504808806415.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504900115583.png",
+                    "path": "img/1610504900115583.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504954139818.png",
+                    "path": "img/1610504954139818.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504959223722.png",
+                    "path": "img/1610504959223722.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504965979661.png",
+                    "path": "img/1610504965979661.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610504970952594.gif",
+                    "path": "img/1610504970952594.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505003951303.png",
+                    "path": "img/1610505003951303.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505008195493.png",
+                    "path": "img/1610505008195493.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505014126298.png",
+                    "path": "img/1610505014126298.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505054130795.png",
+                    "path": "img/1610505054130795.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505062108052.png",
+                    "path": "img/1610505062108052.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505095320801.png",
+                    "path": "img/1610505095320801.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505113279706.png",
+                    "path": "img/1610505113279706.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505130211630.png",
+                    "path": "img/1610505130211630.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505204405832.png",
+                    "path": "img/1610505204405832.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611213548502353.jpg",
+                    "path": "img/1611213548502353.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611213351672715.jpg",
+                    "path": "img/1611213351672715.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611212981140692.jpg",
+                    "path": "img/1611212981140692.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210824/1629791282584286.jpg",
+                    "path": "img/1629791282584286.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611212566571806.jpg",
+                    "path": "img/1611212566571806.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611132118139151.jpg",
+                    "path": "img/1611132118139151.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505235496543.png",
+                    "path": "img/1610505235496543.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611211364139027.jpg",
+                    "path": "img/1611211364139027.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611564685288011.jpg",
+                    "path": "img/1611564685288011.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611564411106206.jpg",
+                    "path": "img/1611564411106206.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611220811831158.jpg",
+                    "path": "img/1611220811831158.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210119/1611053656221699.jpg",
+                    "path": "img/1611053656221699.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210119/1611045737836236.jpg",
+                    "path": "img/1611045737836236.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610505248837140.png",
+                    "path": "img/1610505248837140.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611215199211630.jpg",
+                    "path": "img/1611215199211630.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611212115361897.jpg",
+                    "path": "img/1611212115361897.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611211845925183.jpg",
+                    "path": "img/1611211845925183.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611213661946785.jpg",
+                    "path": "img/1611213661946785.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611564386122498.jpg",
+                    "path": "img/1611564386122498.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611132075131913.jpg",
+                    "path": "img/1611132075131913.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20211021/1634795813832764.png",
+                    "path": "img/1634795813832764.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210330/1617082987243628.jpg",
+                    "path": "img/1617082987243628.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508684901860.png",
+                    "path": "img/1610508684901860.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508665953240.png",
+                    "path": "img/1610508665953240.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508706823370.png",
+                    "path": "img/1610508706823370.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508740108706.png",
+                    "path": "img/1610508740108706.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508792111443.png",
+                    "path": "img/1610508792111443.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610508807412545.png",
+                    "path": "img/1610508807412545.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610938611702795.jpg",
+                    "path": "img/1610938611702795.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610939848396064.jpg",
+                    "path": "img/1610939848396064.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517781517844.jpg",
+                    "path": "img/1610517781517844.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610938649640442.jpg",
+                    "path": "img/1610938649640442.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517807131810.jpg",
+                    "path": "img/1610517807131810.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517819475888.jpg",
+                    "path": "img/1610517819475888.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517829912359.jpg",
+                    "path": "img/1610517829912359.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517842106129.jpg",
+                    "path": "img/1610517842106129.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610517872757660.jpg",
+                    "path": "img/1610517872757660.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611560278140554.jpg",
+                    "path": "img/1611560278140554.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210519/1621406971492549.jpg",
+                    "path": "img/1621406971492549.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611560840720739.jpg",
+                    "path": "img/1611560840720739.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210706/1625562864843681.jpg",
+                    "path": "img/1625562864843681.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210809/1628488308485158.jpg",
+                    "path": "img/1628488308485158.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610941208999886.png",
+                    "path": "img/1610941208999886.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210519/1621407414223780.jpg",
+                    "path": "img/1621407414223780.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610940847108551.jpg",
+                    "path": "img/1610940847108551.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210126/1611631622121521.jpg",
+                    "path": "img/1611631622121521.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611109169544352.jpg",
+                    "path": "img/1611109169544352.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210121/1611215017688938.jpg",
+                    "path": "img/1611215017688938.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210303/1614753773100906.jpg",
+                    "path": "img/1614753773100906.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610949534602832.jpg",
+                    "path": "img/1610949534602832.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210706/1625562762360160.jpg",
+                    "path": "img/1625562762360160.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210720/1626749788225799.jpg",
+                    "path": "img/1626749788225799.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210618/1624005531513761.jpg",
+                    "path": "img/1624005531513761.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210420/1618905378231641.png",
+                    "path": "img/1618905378231641.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210128/1611813263348127.jpg",
+                    "path": "img/1611813263348127.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210303/1614753827260268.jpg",
+                    "path": "img/1614753827260268.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210218/1613635068957398.jpg",
+                    "path": "img/1613635068957398.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610941003561134.jpg",
+                    "path": "img/1610941003561134.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210330/1617075917992340.png",
+                    "path": "img/1617075917992340.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210128/1611813371324760.jpg",
+                    "path": "img/1611813371324760.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610940805101666.jpg",
+                    "path": "img/1610940805101666.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610949706125368.jpg",
+                    "path": "img/1610949706125368.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210618/1624005594776222.png",
+                    "path": "img/1624005594776222.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610942286305525.jpg",
+                    "path": "img/1610942286305525.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610941079323168.jpeg",
+                    "path": "img/1610941079323168.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610940932309828.jpg",
+                    "path": "img/1610940932309828.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610941042126780.jpg",
+                    "path": "img/1610941042126780.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610950028136952.jpg",
+                    "path": "img/1610950028136952.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210720/1626749351904046.jpg",
+                    "path": "img/1626749351904046.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210126/1611631983300749.jpg",
+                    "path": "img/1611631983300749.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611106428116409.png",
+                    "path": "img/1611106428116409.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611106256103633.jpg",
+                    "path": "img/1611106256103633.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210120/1611106163368653.jpg",
+                    "path": "img/1611106163368653.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210720/1626749401835950.jpg",
+                    "path": "img/1626749401835950.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610940879448391.jpg",
+                    "path": "img/1610940879448391.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210113/1610514947126844.jpg",
+                    "path": "img/1610514947126844.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610952745115368.jpg",
+                    "path": "img/1610952745115368.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210125/1611559024617419.jpg",
+                    "path": "img/1611559024617419.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/data/upload/image/20210118/1610963634234265.jpg",
+                    "path": "img/1610963634234265.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/jquery-1.8.3.min.js",
+                    "path": "js/jquery-1.8.3.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/script.js",
+                    "path": "js/script.js",
+                    "saved": true,
+                    "size": 878,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/jquery.imgscroll.min.js",
+                    "path": "js/jquery.imgscroll.min.js",
+                    "saved": true,
+                    "size": 20301,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/jquery.rollGallery_yeso.js",
+                    "path": "js/jquery.rollGallery_yeso.js",
+                    "saved": true,
+                    "size": 2068,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/jquery-8b229831f4.min.js",
+                    "path": "js/jquery-8b229831f4.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/js/index-647bad8336.js",
+                    "path": "js/index-647bad8336.js",
+                    "saved": true,
+                    "size": 20400,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 62065,
+                    "children": [
+                        {
+                            "url": "https://www.itelecloud.com/images/dbg.jpg",
+                            "path": "img/dbg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/footer-banner-34f2f9001f.jpg",
+                            "path": "img/footer-banner-34f2f9001f.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/dline.jpg",
+                            "path": "img/dline.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/sbq.png",
+                            "path": "img/sbq.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/dtzs.png",
+                            "path": "img/dtzs.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/vs.jpg",
+                            "path": "img/vs.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/sapp-store-arror.png",
+                            "path": "img/sapp-store-arror.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/zixunbg.jpg",
+                            "path": "img/zixunbg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/kf2.png",
+                            "path": "img/kf2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/kf3.png",
+                            "path": "img/kf3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/kf1.png",
+                            "path": "img/kf1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/kf4.png",
+                            "path": "img/kf4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.itelecloud.com/css/daohang.css",
+                    "path": "css/daohang.css",
+                    "saved": true,
+                    "size": 18813,
+                    "children": [
+                        {
+                            "url": "https://www.itelecloud.com/images/nav-right-dc523cc12c.png",
+                            "path": "img/nav-right-dc523cc12c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/guanyubg.png",
+                            "path": "img/guanyubg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/images/fanganbg.png",
+                            "path": "img/fanganbg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.itelecloud.com/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "saved": true,
+                    "size": 25831,
+                    "children": [
+                        {
+                            "url": "https://www.itelecloud.com/font/fontawesome-webfont.eot?v=3.2.1",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/font/fontawesome-webfont.eot?#iefix&v=3.2.1",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/font/fontawesome-webfont.woff?v=3.2.1",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/font/fontawesome-webfont.ttf?v=3.2.1",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.itelecloud.com/font/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.itelecloud.com/css/sjdh.css",
+                    "path": "css/sjdh.css",
+                    "saved": true,
+                    "size": 2298,
+                    "children": []
+                },
+                {
+                    "url": "https://www.itelecloud.com/template/default/images/favicon.ico",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.itelecloud.com/images/sp3.mp4",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "www-itelecloud-com-gcs411o",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.itelecloud.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://www.itelecloud.com/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Fri, 18 Feb 2022 12:22:59 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "x-powered-by": "PHP/5.3.29"
+            }
+        },
+        "time": {
+            "start": "2022-02-18T12:22:55.618Z",
+            "end": "2022-02-18T12:23:22.890Z"
+        },
+        "remark": [],
+        "title": "北京祥云智通科技有限公司",
+        "ip": "123.56.112.1",
+        "url": "https://www.itelecloud.com/",
+        "main": "index.html",
+        "domain": "www.itelecloud.com",
+        "origin": "https://www.itelecloud.com",
+        "totalSize": "190 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://www.itelecloud.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
